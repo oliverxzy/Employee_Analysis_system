@@ -8,11 +8,11 @@ The provided jupyter notebook shows the whole process of early data exploration 
 
 ## Web App
 
-![image-20201003145140870](/Users/zhengyangxu/Desktop/Employee_Analysis_system/Employee_Analysis_system/image-20201003145140870.png)
+![image](https://github.com/oliverxzy/Employee_Analysis_system/blob/master/IMG/image-20201003145140870.png)
 
 The Web app (https://employe-attrition.herokuapp.com/) provides interactive analytics for users to find out interesting and significant rules for people leaving.
 
 Based on the rules and tags you select, it can show you an interactive table for rules. For example, as the image shows below, we can see how strong the relationship between people who are not leaving and their performance rating is three.
 
-![image-20201003145728211](/Users/zhengyangxu/Desktop/Employee_Analysis_system/Employee_Analysis_system/image-20201003145728211.png)
+![image](https://github.com/oliverxzy/Employee_Analysis_system/blob/master/IMG/image-20201003145728211.png)
 
